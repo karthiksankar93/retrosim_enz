@@ -1,0 +1,1 @@
+The intention of this Jupyter Notebook +Model file is to provide an environment to make an evaluation that determines whether a pair of reactions are evolvable. This notebook requires the use of Tensorflow, Keras, and RDKit.

@@ -1,0 +1,6 @@
+prod_smiles,rxn_smiles
+NC1=NC(F)=NC2=C1N=CN2[C@H]3C[C@H](O)[C@](CO)(C#C)O3,OC[C@@]1(C#C)O[C@H](OP([O-])([O-])=O)C[C@@H]1O.NC2=NC(F)=NC3=C2N=CN3>>NC4=NC(F)=NC5=C4N=CN5[C@H]6C[C@H](O)[C@](CO)(C#C)O6
+OC[C@@]1(C#C)O[C@H](OP([O-])([O-])=O)C[C@@H]1O,C#C[C@]1(COP([O-])([O-])=O)OC(O)C[C@@H]1O>>OC[C@@]2(C#C)O[C@H](OP([O-])([O-])=O)C[C@@H]2O
+OC1C[C@H](O)[C@](COP([O-])(O)=O)(C#C)O1,O=C[C@@](O)(C#C)COP([O-])(O)=O.O=CC>>OC1C[C@H](O)[C@](COP([O-])(O)=O)(C#C)O1
+O=C[C@@](C#C)(COP([O-])([O-])=O)O,C#C[C@](O)(C=O)CO.Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@@H](O)[C@H]1O>>O=C[C@@](C#C)(COP([O-])([O-])=O)O
+OC[C@](O)(C#C)C=O,OCC(O)(C#C)CO>>OC[C@](O)(C#C)C=O

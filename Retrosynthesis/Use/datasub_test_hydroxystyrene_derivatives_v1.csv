@@ -1,0 +1,7 @@
+prod_smiles,rxn_smiles
+OC1=CC=C(C=C)C=C1,O=C([O-])/C=C/c1ccc(O)cc1>>OC1=CC=C(C=C)C=C1
+O=C([O-])/C=C/c1ccc(O)cc1,[NH3+][C@@H](Cc1ccc(O)cc1)C(=O)[O-]>>O=C([O-])/C=C/c1ccc(O)cc1
+OC1=C(O)C=C(C=C)C=C1,O=C([O-])/C=C/c1ccc(O)c(O)c1>>OC1=C(O)C=C(C=C)C=C1
+O=C([O-])/C=C/c1ccc(O)c(O)c1,O=C([O-])/C=C/c1ccc(O)cc1.O=O>>O=C([O-])/C=C/c1ccc(O)c(O)c1
+OC1=C(OC)C=C(C=C)C=C1,COc1cc(/C=C/C(=O)[O-])ccc1O>>OC1=C(OC)C=C(C=C)C=C1
+COc1cc(/C=C/C(=O)[O-])ccc1O,C[S+](CC[C@H]([NH3+])C(=O)[O-])C[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1O.O=C([O-])/C=C/c1ccc(O)c(O)c1>>COc1cc(/C=C/C(=O)[O-])ccc1O
